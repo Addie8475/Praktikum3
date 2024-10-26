@@ -10,10 +10,13 @@ Penjelasan
 8. Jika sesuatu yang dimasukkan bukan angka, seperti huruf, program akan menangkap error dengan except dan meminta input ulang.
 
 Contoh Input :
+
 ![p1](https://github.com/user-attachments/assets/368eb8e0-21fc-4b6a-91f1-c7cdf99d379f)
 
 Hasil Output :
+
 ![p2](https://github.com/user-attachments/assets/22fdc3f0-c430-47f5-8a04-7940bd7d0660)
 
-Flowchart
+Flowchart :
+
 ![p0](https://github.com/user-attachments/assets/3abdf689-1d78-4229-bf2e-7a4dd6d2eb2b)

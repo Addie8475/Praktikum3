@@ -9,7 +9,7 @@ Kode Python :
 
 ![Screenshot_6](https://github.com/user-attachments/assets/b7c7ccd4-4b98-4495-8d34-0bbb9a9ed9c9)
 
-Input dan Output
+Input dan Output :
 
 ![Screenshot_6 - Copy](https://github.com/user-attachments/assets/acad19e5-2e53-410a-9b91-e36928dbd365)
 

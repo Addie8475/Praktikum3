@@ -19,11 +19,11 @@ Penjelasan :
 - Fungsi **float()** mengonversi input tersebut menjadi bilangan desimal. Jika hanya ingin bekerja dengan bilangan bulat, bisa juga menggantinya dengan int() jika untuk bilangan bulat.
 2. Logika if-elif-else :
 **If** :
-Jika bilangan A lebih besar dari B dan lebih besar dari C, maka program akan mencetak bahwa A adalah bilangan terbesar.
+  Jika bilangan A lebih besar dari B dan lebih besar dari C, maka program akan mencetak bahwa A adalah bilangan terbesar.
 **Elif** :
-Jika kondisi pertama salah (artinya A bukan yang terbesar), maka program akan mengecek apakah B lebih besar dari C. Jika ya, B akan dicetak sebagai bilangan terbesar.
+  Jika kondisi pertama salah (artinya A bukan yang terbesar), maka program akan mengecek apakah B lebih besar dari C. Jika ya, B akan dicetak sebagai bilangan terbesar.
 **Else** :
-Jika tidak ada dari 2 kondisi sebelumnya yang terpenuhi, program akan mencetak bahwa C adalah bilangan terbesar.
+  Jika tidak ada dari 2 kondisi sebelumnya yang terpenuhi, program akan mencetak bahwa C adalah bilangan terbesar.
 
 
 **Menentukan bilangan terbesar dari N bilangan** 

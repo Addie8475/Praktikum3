@@ -1,5 +1,5 @@
 # Praktikum3
-**Menentukan bilangan terbesar dari 3 bilangan**
+**1. Menentukan bilangan terbesar dari 3 bilangan**
 
 Flowchart :
 
@@ -33,7 +33,7 @@ Penjelasan :
   Jika tidak ada dari 2 kondisi sebelumnya yang terpenuhi, program akan mencetak bahwa C adalah bilangan terbesar.
 
 
-**Menentukan bilangan terbesar dari N bilangan** 
+**2. Menentukan bilangan terbesar dari N bilangan** 
 
 Flowchart :
 
@@ -47,7 +47,7 @@ Input dan Output :
 
 ![p2](https://github.com/user-attachments/assets/22fdc3f0-c430-47f5-8a04-7940bd7d0660)
 
-Penjelasan
+Penjelasan :
 1. **max_value**: Diset ke **-∞** agar setiap bilangan yang diinput lebih besar dari nilai awal ini dan memastikan bilangan pertama yang dimasukkan akan langsung menjadi kandidat terbesar.
 2. **count**: Untuk menghitung jumlah bilangan yang diinput, tidak termasuk angka 0.
 3. **while True**: Yaitu  loop tak terbatas yang akan terus berjalan sampai ada perintah break.

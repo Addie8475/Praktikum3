@@ -1,4 +1,31 @@
 # Praktikum3
+**Menentukan bilangan terbesar dari 3 bilangan**
+Flowchart :
+
+![Screenshot_27](https://github.com/user-attachments/assets/da17e788-fc53-4a98-a90e-ee0a6867a6f7)
+
+Kode Python :
+
+![Screenshot_6](https://github.com/user-attachments/assets/b7c7ccd4-4b98-4495-8d34-0bbb9a9ed9c9)
+
+Input dan Output
+
+![Screenshot_6 - Copy](https://github.com/user-attachments/assets/acad19e5-2e53-410a-9b91-e36928dbd365)
+
+Penjelasan :
+1. Program meminta untuk memasukkan tiga bilangan, yaitu A, B, dan C.
+- Fungsi **input()** digunakan untuk menerima input dalam bentuk string.
+- Fungsi **float()** mengonversi input tersebut menjadi bilangan desimal. Jika hanya ingin bekerja dengan bilangan bulat, bisa juga menggantinya dengan int() jika untuk bilangan bulat.
+2. Logika if-elif-else :
+**If** :
+Jika bilangan A lebih besar dari B dan lebih besar dari C, maka program akan mencetak bahwa A adalah bilangan terbesar.
+**Elif** :
+Jika kondisi pertama salah (artinya A bukan yang terbesar), maka program akan mengecek apakah B lebih besar dari C. Jika ya, B akan dicetak sebagai bilangan terbesar.
+**Else** :
+Jika tidak ada dari 2 kondisi sebelumnya yang terpenuhi, program akan mencetak bahwa C adalah bilangan terbesar.
+
+
+**Menentukan bilangan terbesar dari N bilangan** 
 Flowchart :
 
 ![p0](https://github.com/user-attachments/assets/3abdf689-1d78-4229-bf2e-7a4dd6d2eb2b)

@@ -23,9 +23,11 @@ Penjelasan :
 **If** :
 
   Jika bilangan A lebih besar dari B dan lebih besar dari C, maka program akan mencetak bahwa A adalah bilangan terbesar.
+  
 **Elif** :
 
   Jika kondisi pertama salah (artinya A bukan yang terbesar), maka program akan mengecek apakah B lebih besar dari C. Jika ya, B akan dicetak sebagai bilangan terbesar.
+  
 **Else** :
 
   Jika tidak ada dari 2 kondisi sebelumnya yang terpenuhi, program akan mencetak bahwa C adalah bilangan terbesar.
